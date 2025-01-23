@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @B0MSH1K
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Blueprints
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me invites
 - 😄 Pronouns: man/american
